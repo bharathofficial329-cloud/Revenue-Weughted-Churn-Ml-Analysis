@@ -1,16 +1,16 @@
 # Revenue-Weughted-Churn-Prediction–End-to-End ML-Analysis
 Built a revenue-weighted churn prediction model for telecom customers that prioritizes retention based on financial risk rather than churn probability alone. Leveraged behavioral usage data, feature engineering, and ML classification to estimate expected revenue loss and produce actionable, high-ROI retention targeting.
 
-## 1. Business Problem
+ 1. Business Problem
 
 Customer attrition directly impacts recurring revenue.
 This project builds a machine learning model to predict which customers are likely to churn, enabling proactive retention strategies.
 
-## 2. Objective
+ 2. Objective
 
 Develop a classification model that identifies high-risk customers using behavioral and billing data.
 
-## 3. Dataset
+ 3. Dataset
 
 * Source: Telecom customer dataset
 * Records: ~7,000 customers
@@ -23,7 +23,7 @@ Develop a classification model that identifies high-risk customers using behavio
 
 (Note: Dataset not uploaded due to size. Download link provided below.)
 
-## 4. ML Pipeline
+ 4. ML Pipeline
 
 The project follows a production-style workflow:
 
@@ -33,7 +33,7 @@ The project follows a production-style workflow:
 4. Model Training (Logistic Regression)
 5. Model Evaluation (ROC-AUC, Precision-Recall, Accuracy)
 
-## 5. Tech Stack
+ 5. Tech Stack
 
 * Python
 * Pandas / NumPy
@@ -42,7 +42,7 @@ The project follows a production-style workflow:
 * Power BI (Visualization)
 * Docker (Containerization)
 
-## 6. Model Performance
+ 6. Model Performance
 
 | Metric   | Score |
 | -------- | ----- |
