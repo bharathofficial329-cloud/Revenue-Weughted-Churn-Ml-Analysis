@@ -13,7 +13,7 @@ Develop a classification model that identifies high-risk customers using behavio
  3. DATASET
 
 * Source: Telecom customer dataset
-* Records: ~7,000 customers
+* Records: ~70,000 customers
 * Features include:
 
   * Tenure
